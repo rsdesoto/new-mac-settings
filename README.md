@@ -8,5 +8,16 @@ A repository of settings I've added to Macs to make them work
 ### Apps
 * Autodesk Sketchbook 
 * Lastpass
+* Firefox
+* Chrome
+* VSCode 
+* Anaconda 
+* Discord 
+* AdBlock
 
 ### Code and terminal
+
+### Firefox add-ons
+* Lastpass
+* Tumblr savior
+* Adblock plus
