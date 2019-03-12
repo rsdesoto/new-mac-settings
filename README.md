@@ -6,19 +6,38 @@ A repository of settings I've added to Macs to make them work
 * [Spectacle](https://www.spectacleapp.com/) - gives you keyboard commands to move app windows around similar to Windows keyboard commands
 * Recent applications - turn off in system preferences/dock
 
+### Dashboard
+* Mission control - dashboard as space
+
+### Dock
+* Size - about 1/3 towards "small"
+* Minimize windows using scale effect
+* Check: 
+  * Double-click a window's title bar to zoom
+  * Minimize windows into application icon
+  * Show indicators for open applications
+  
+### Trackpad
+* Look up & data detectors
+* Secondary click
+* Tap to click
+* Uncheck "scroll direction: natural"
+
 ### Apps
 * Autodesk Sketchbook 
 * Lastpass
 * Firefox
 * Chrome
 * VSCode 
-* Anaconda 
+* Atom
 * Discord 
 * AdBlock
+* Spectacle
+
 
 ### Code and terminal
 
 ### Firefox add-ons
 * Lastpass
-* Tumblr savior
+* Ghostery
 * Adblock plus
