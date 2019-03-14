@@ -36,6 +36,7 @@ A repository of settings I've added to Macs to make them work
 
 
 ### Code and terminal
+* iTerm2
 
 ### Firefox add-ons
 * Lastpass
