@@ -28,7 +28,6 @@ A repository of settings I've added to Macs to make them work
 * Lastpass
 * Firefox
 * Chrome
-* VSCode 
 * Atom
 * Discord 
 * AdBlock
@@ -42,3 +41,6 @@ A repository of settings I've added to Macs to make them work
 * Lastpass
 * Ghostery
 * Adblock plus
+
+### Github
+* git config --global core.editor "atom"
