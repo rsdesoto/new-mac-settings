@@ -24,7 +24,6 @@ A repository of settings I've added to Macs to make them work
 * Uncheck "scroll direction: natural"
 
 ### Apps
-* Autodesk Sketchbook 
 * Lastpass
 * Firefox
 * Chrome
