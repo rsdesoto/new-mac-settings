@@ -32,9 +32,11 @@ A repository of settings I've added to Macs to make them work
 * AdBlock
 * Spectacle
 
-
 ### Code and terminal
 * iTerm2
+* rbenv (version control for Ruby)
+* homebrew (`/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`)
+* Xcode
 
 ### Firefox add-ons
 * Lastpass
