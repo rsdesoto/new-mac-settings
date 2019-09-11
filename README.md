@@ -31,12 +31,14 @@ A repository of settings I've added to Macs to make them work
 * Discord 
 * AdBlock
 * Spectacle
+* Karabiner 
 
 ### Code and terminal
 * iTerm2
 * rbenv (version control for Ruby)
 * homebrew (`/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`)
 * Xcode
+* Trailer (https://github.com/ptsochantaris/trailer) - 
 
 ### Firefox add-ons
 * Lastpass
