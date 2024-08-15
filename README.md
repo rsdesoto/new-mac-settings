@@ -26,11 +26,8 @@ A repository of settings I've added to Macs to make them work
 * Lastpass
 * Firefox
 * Chrome
-* Atom
-* Discord 
-* AdBlock
-* Spectacle
-* Karabiner 
+* VSCode 
+* Rectangle 
 
 ### Code and terminal
 * iTerm2
@@ -39,10 +36,14 @@ A repository of settings I've added to Macs to make them work
 * Xcode
 * Trailer (https://github.com/ptsochantaris/trailer) - 
 
-### Firefox add-ons
-* Lastpass
+### Browser add-ons
+* Bitwarden
 * Ghostery
-* Adblock plus
+* uBlock
+
+### VSCode
+* Open command palette
+* Install 'code' command in PATH
 
 ### Github
-* git config --global core.editor "atom"
+* git config --global core.editor "code --wait"
